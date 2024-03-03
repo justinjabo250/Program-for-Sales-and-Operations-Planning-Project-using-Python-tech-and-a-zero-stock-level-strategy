@@ -1,0 +1,2 @@
+# Program-for-Sales-and-Operations-Planning-Project-using-Python-tech-and-a-zero-stock-level-strategy
+In order to meet the business needs and improve decision-making based on data analytics, the project I work on will involve developing a sales and operations planning software program using a zero-stock level strategy and Python technology. Ultimately, the program will be able to ask the user to enter information based on the business criteria
